@@ -3,6 +3,11 @@ package AmazonImplementation;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ *Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class Product {
 
 	private String productName;
